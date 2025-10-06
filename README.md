@@ -1,7 +1,5 @@
 # IPL Dashboard
 
-![IPL Dashboard](https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png)
-
 A React-based dashboard displaying detailed information about IPL (Indian Premier League) teams and their recent matches. This project showcases team lists, latest matches, and recent matches for each IPL team.
 
 ## Features
@@ -15,15 +13,8 @@ A React-based dashboard displaying detailed information about IPL (Indian Premie
 
 Experience the live application here: [https://IPLDEMO.ccbp.tech](https://IPLDEMO.ccbp.tech)
 
-## Screenshots
 
-### Home Page
 
-![Home Page](https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png)
-
-### Team Details Page
-
-![Team Details Page](https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png)
 
 ## Technologies Used
 
